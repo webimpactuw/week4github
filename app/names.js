@@ -12,6 +12,7 @@ const names = [
     "Ira",
     "Arkita Jain",
     "Donald Trump",
+    "Richie Doan"
     // TODO: add more here!
     "Jasmine Wong",
     "Ruslana Korolov",
