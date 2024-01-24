@@ -13,8 +13,10 @@ const names = [
     "Arkita Jain",
     "Donald Trump",
     // TODO: add more here!
-    "Ruslana Korolov"
-    
+    "Ruslana Korolov",
+    "Laura Khotemlyansky",
+    "Alihandus",
+    "Kim Singh",
 ];
 
 export default names;
