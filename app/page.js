@@ -1,4 +1,3 @@
-import Image from "next/image";
 import names from "./names";
 
 export default function Home() {
