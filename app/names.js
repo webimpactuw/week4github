@@ -1,4 +1,5 @@
 const names = [
+    "Mahika Bagri",
     "Eric Xiao",
     "Juliette Park",
     "Bill Yu",
