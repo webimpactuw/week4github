@@ -18,6 +18,7 @@ const names = [
     "Laura Khotemlyansky",
     "Alihandus",
     "Kim Singh",
+    "Jason Jeong",
 ];
 
 export default names;
